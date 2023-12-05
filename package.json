@@ -1,0 +1,13 @@
+{
+  "name": "pdf-poc",
+  "version": "1.0.0",
+  "description": "Typescript PDF Manipulation POC",
+  "scripts": {
+    "start": "ts-node ./src/main"
+  },
+  "author": "Andrew Thresher <thresh3@me.com>",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
